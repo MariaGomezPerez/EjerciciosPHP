@@ -27,6 +27,7 @@
         $i=1;
         for ($i1=1; $i1<11; $i1++)
         {
+             echo "<tr>";
             
              echo "<td>"."Linea", $i++, "<br>"."</td>";
              

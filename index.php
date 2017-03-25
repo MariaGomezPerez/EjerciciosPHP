@@ -29,6 +29,22 @@
     <button type="button" class="btn btn-default">
         <a href="Ejercicio5.php">Ejercicio 5 </a>
     </button>
+         <button type="button" class="btn btn-default">
+        <a href="Ejercicio6.php">Ejercicio 6 </a>
+    </button>
+         <button type="button" class="btn btn-default">
+        <a href="Ejercicio7.php">Ejercicio 7 </a>
+    </button>
+         <button type="button" class="btn btn-default">
+        <a href="Ejercicio8.php">Ejercicio 8 </a>
+    </button>
+         <button type="button" class="btn btn-default">
+        <a href="Ejercicio9.php">Ejercicio 9 </a>
+    </button>
+         <button type="button" class="btn btn-default">
+        <a href="Ejercicio10.php">Ejercicio 10 </a>
+    </button>
+    
     </div>
     </div>
     <img src="img/img1.png" width="350px" height="250px"></img>
